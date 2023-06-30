@@ -13,6 +13,13 @@ Hi👋,  I'm a backend developer. I've 2 years of experience developing web appl
 ![icons8-spring-boot-48](https://github.com/RashelAlvarez/RashelAlvarez/assets/49957146/24a5d355-7ed5-43dc-bfb0-ffbeaf9820cd)
 
 
+<h1>Connect with me</h1>
+
+<a href="https://www.linkedin.com/in/rashel-alvarez-9951a0190/?originalSubdomain=ve">
+ Clic here</a> 
+
+
+
 <!--
 **RashelAlvarez/RashelAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
