@@ -1,5 +1,5 @@
 
-Hi👋,  I'm a full stack developer. I've +2 years of experience developing web applications. I'm a self-taught person and passionate about technology.
+Hi👋,  I'm a full stack developer. I've 3 years of experience developing web applications. I'm a self-taught person and passionate about technology.
 
 <h1>Skills</h1>
 
