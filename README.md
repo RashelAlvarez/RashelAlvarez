@@ -19,7 +19,7 @@ Hi👋,  I'm a Backend developer. I've 3 years of experience developing web appl
  Clic here</a> 
 
  <h1>My Portfolio</h1>
-<a href="https://my-portfolio-rashelalvarez.vercel.app/#contact">Clic here</a>
+<a href="https://my-portfolio-rashelalvarez.vercel.app">Clic here</a>
 
 
 <!--
